@@ -71,4 +71,4 @@ The goal of this project is to develop a domain-specific application that combin
 
 This implementation overview provides a step-by-step guide to developing a travel itinerary recommendation chatbot using Retrieval-Augmented Generation (RAG), LangChain, an LLM, and a vector database. The focus is on creating a user-friendly application that provides accurate and relevant travel recommendations based on user inputs.
 
-## Youtube Link: 
+## Youtube Link: https://youtu.be/_CeHihBZsBU
