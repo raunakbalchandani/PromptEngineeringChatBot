@@ -70,3 +70,5 @@ The goal of this project is to develop a domain-specific application that combin
    - **Sensible and Accurate Responses (10%):** Provide sensible and accurate responses based on real-life constraints provided by the user.
 
 This implementation overview provides a step-by-step guide to developing a travel itinerary recommendation chatbot using Retrieval-Augmented Generation (RAG), LangChain, an LLM, and a vector database. The focus is on creating a user-friendly application that provides accurate and relevant travel recommendations based on user inputs.
+
+## Youtube Link: 
