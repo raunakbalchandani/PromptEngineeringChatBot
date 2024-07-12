@@ -57,18 +57,6 @@ The goal of this project is to develop a domain-specific application that combin
 - **Performance Testing:** Measure the response time and optimize for efficiency.
 - **User Feedback:** Collect feedback from test users to improve the system's accuracy and usability.
 
-## Evaluation Criteria
-
-1. **Meeting Requirements (80%):**
-   - **Functionality (40%):** Ensure the chatbot interacts with users to collect preferences and needs accurately and generates travel recommendations based on user inputs using RAG.
-   - **Pre-existing Data (20%):** Ensure recommendations are created only from the existing data stored in the system.
-   - **Backend Integration (20%):** Effectively use LangChain to manage the interaction flow, with details and descriptions stored in a vector database, and fetch the top K data entries based on user descriptions.
-
-2. **Creativity (20%):**
-   - **Extended Data Structure (3%):** Extend the current data structure to include more features, such as additional activity types, more detailed user preferences, ratings, and reviews.
-   - **Nuanced Understanding (7%):** The chatbot’s ability to understand and process nuanced user requirements, such as specific dietary needs or complex travel plans.
-   - **Sensible and Accurate Responses (10%):** Provide sensible and accurate responses based on real-life constraints provided by the user.
-
 This implementation overview provides a step-by-step guide to developing a travel itinerary recommendation chatbot using Retrieval-Augmented Generation (RAG), LangChain, an LLM, and a vector database. The focus is on creating a user-friendly application that provides accurate and relevant travel recommendations based on user inputs.
 
 ## Youtube Link: https://youtu.be/_CeHihBZsBU
